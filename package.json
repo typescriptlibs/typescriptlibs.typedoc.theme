@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "typescriptlibs.typedoc.theme",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "author": "Sebastian Lenz",
     "license": "Apache-2.0",
     "description": "TypeDoc Theme for TypeScriptLibs.org",
