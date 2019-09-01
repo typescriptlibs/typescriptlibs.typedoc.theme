@@ -1,23 +1,23 @@
 {
-	"private": true,
-	"name": "typescriptlibs.typedoc.theme",
-	"version": "0.6.0-minimal",
-	"author": "Sebastian Lenz",
-	"license": "Apache-2.0",
-	"description": "TypeDoc Theme for TypeScriptLibs.org",
-	"bugs": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme/issues",
-	"homepage": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme#readme",
-	"repository": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme.git",
-	"peerDependencies": {
-		"typedoc": ">=0.15.0"
-	},
-	"files": [
-		"index.js",
-		"layouts",
-		"LICENSE",
-		"partials",
-		"templates",
-		"README.md"
-	],
-	"main": "index.js"
+    "private": true,
+    "name": "typescriptlibs.typedoc.theme",
+    "version": "0.6.1",
+    "author": "Sebastian Lenz",
+    "license": "Apache-2.0",
+    "description": "TypeDoc Theme for TypeScriptLibs.org",
+    "bugs": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme/issues",
+    "homepage": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme#readme",
+    "repository": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme.git",
+    "peerDependencies": {
+        "typedoc": ">=0.15.0"
+    },
+    "files": [
+        "index.js",
+        "layouts",
+        "LICENSE",
+        "partials",
+        "templates",
+        "README.md"
+    ],
+    "main": "index.js"
 }

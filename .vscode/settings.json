@@ -1,7 +1,7 @@
 {
 	"editor.detectIndentation": false,
 	"editor.formatOnSave": true,
-	"editor.insertSpaces": false,
+	"editor.insertSpaces": true,
 	"editor.rulers": [
 		79,
 		80
