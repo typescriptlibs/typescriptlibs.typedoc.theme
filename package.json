@@ -15,8 +15,5 @@
         "LICENSE",
         "partials",
         "README.md"
-    ],
-    "peerDependencies": {
-        "typedoc": "<0.20.0"
-    }
+    ]
 }
