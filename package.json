@@ -1,23 +1,19 @@
 {
     "private": true,
-    "name": "typescriptlibs.typedoc.theme",
-    "version": "0.6.1",
     "author": "Sebastian Lenz",
-    "license": "Apache-2.0",
-    "description": "TypeDoc Theme for TypeScriptLibs.org",
     "bugs": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme/issues",
+    "description": "TypeDoc Theme for TypeScriptLibs.org",
     "homepage": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme#readme",
+    "license": "Apache-2.0",
+    "main": "index.js",
+    "name": "typescriptlibs.typedoc.theme",
     "repository": "https://github.com/typescriptlibs/typescriptlibs.typedoc.theme.git",
-    "peerDependencies": {
-        "typedoc": ">=0.15.0"
-    },
+    "version": "0.6.2",
     "files": [
         "index.js",
-        "layouts",
+        "assets",
         "LICENSE",
         "partials",
-        "templates",
         "README.md"
-    ],
-    "main": "index.js"
+    ]
 }
